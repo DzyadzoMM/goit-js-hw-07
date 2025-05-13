@@ -27,3 +27,17 @@ body {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     max-width: 200px;
 }
+#name-input{
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.name-output-h{
+  color: grey;
+}
+#name-output{
+  font-weight: bold;
+  color: #000;
+}
