@@ -13,4 +13,3 @@ console.log(`Category: ${categoryTitle}`);
 console.log(`Elements: ${numberOfElements}`);});
 } else {
 console.log('Елемент з ID "categories" не знайдено на сторінці.');}
-console.log(document.querySelector("p"));
