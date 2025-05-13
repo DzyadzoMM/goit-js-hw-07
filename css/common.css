@@ -41,3 +41,28 @@ body {
   font-weight: bold;
   color: #000;
 }
+.login-form{
+  background-color: darkgrey;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.login-form label{
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+.login-form input{
+  border-radius: 5px;
+  width: 100%;
+}
+.login-form button{
+  margin-top: 30px;
+  padding: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
